@@ -205,3 +205,9 @@ Each metric produces Precision, Recall, and **F1 (reported)**. Stemming is enabl
 ---
 
 *Project created as part of an Intermediate NLP portfolio — demonstrates data creation, preprocessing, extractive and abstractive modeling, ROUGE evaluation, and visualization.*
+
+## Author
+
+**Hariom Anand**  
+DATA.110 — Introduction to Python Programming for Machine Learning  
+Summer C 2025
